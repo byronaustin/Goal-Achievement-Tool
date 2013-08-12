@@ -14,3 +14,5 @@ Multiple goals can be tracked.
 
 The idea is to help achieve a BIG goal by breaking it down into little steps. When all of the little steps are completed
 the goal is attained!
+
+This aplication was written with 3 language selections - English, Spanish and French.
