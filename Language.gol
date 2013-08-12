@@ -1,0 +1,195 @@
+[E][PagesDlg]Mega Goal Achiever
+[F][PagesDlg]Fr-Mega Goal Achiever
+[S][PagesDlg]Sp-Mega Goal Achiever
+[E][File1]&File
+[F][File1]Fr-&File
+[S][File1]Sp-&File
+[E][Print1]&Print Goals
+[F][Print1]Fr-&Print Goals
+[S][Print1]Sp-&Print Goals
+[E][PrintSelectedGoalandCriticalTasks1]Print &Selected Goal and Critical Tasks
+[F][PrintSelectedGoalandCriticalTasks1]Fr-Print &Selected Goal and Critical Tasks
+[S][PrintSelectedGoalandCriticalTasks1]Sp-Print &Selected Goal and Critical Tasks
+[E][PrintGoalsCriticalTasks1]Print All Goals && &Critical Tasks
+[F][PrintGoalsCriticalTasks1]Fr-Print All Goals && &Critical Tasks
+[S][PrintGoalsCriticalTasks1]Sp-Print All Goals && &Critical Tasks
+[E][Exit1]E&xit
+[F][Exit1]Fr-E&xit
+[S][Exit1]Sp-E&xit
+[E][Edit2]&Edit
+[F][Edit2]Fr-&Edit
+[S][Edit2]Sp-&Edit
+[E][DeleteUser]&Delete User
+[F][DeleteUser]Fr-&Delete User
+[S][DeleteUser]Sp-&Delete User
+[E][DeleteProfiles]&Clear ALL Profiles
+[F][DeleteProfiles]Fr-&Clear ALL Profiles
+[S][DeleteProfiles]Sp-&Clear ALL Profiles
+[E][SelectGoalAchievedTheme1]Select Goal Achieved Theme
+[F][SelectGoalAchievedTheme1]Fr-Select Goal Achieved Theme
+[S][SelectGoalAchievedTheme1]Sp-Select Goal Achieved Theme
+[E][Help1]&Help
+[F][Help1]Fr-&Help
+[S][Help1]Sp-&Help
+[E][AboutMegaGoalAchiever1]&About Mega Goal Achiever
+[F][AboutMegaGoalAchiever1]Fr-&About Mega Goal Achiever
+[S][AboutMegaGoalAchiever1]Sp-&About Mega Goal Achiever
+[E][Language1]Language
+[F][Language1]Fr-Language
+[S][Language1]Sp-Language
+[E][English1]English
+[F][English1]Fr-English
+[S][English1]Sp-English
+[E][French1]French
+[F][French1]Fr-French
+[S][French1]Sp-French
+[E][Spanish1]Spanish
+[F][Spanish1]Fr-Spanish
+[S][Spanish1]Sp-Spanish
+[E][TabSheet1]Goals
+[F][TabSheet1]Fr-Goals
+[S][TabSheet1]Sp-Goals
+[E][Label1]Priority
+[F][Label1]Fr-Priority
+[S][Label1]Sp-Priority
+[E][Label2]Goal List
+[F][Label2]Fr-Goal List
+[S][Label2]Sp-Goal List
+[E][Label7]S
+[F][Label7]Fr-S
+[S][Label7]Sp-S
+[E][Label8]M
+[F][Label8]Fr-M
+[S][Label8]Sp-M
+[E][Label9]A
+[F][Label9]Fr-A
+[S][Label9]Sp-A
+[E][Label10]R
+[F][Label10]Fr-R
+[S][Label10]Sp-R
+[E][Label11]T
+[F][Label11]Fr-T
+[S][Label11]Sp-T
+[E][Label12]Enter a list of goals you want to accomplish
+[F][Label12]Fr-Enter a list of goals you want to accomplish
+[S][Label12]Sp-Enter a list of goals you want to accomplish
+[E][Button1]Mastermind 20
+[F][Button1]Fr-Mastermind 20
+[S][Button1]Sp-Mastermind 20
+[E][Button2]Insert Goal
+[F][Button2]Fr-Insert Goal
+[S][Button2]Sp-Insert Goal
+[E][GABtn]Goal Achieved
+[F][GABtn]Fr-Goal Achieved
+[S][GABtn]Sp-Goal Achieved
+[E][TabSheet2]Visions
+[F][TabSheet2]Fr-Visions
+[S][TabSheet2]Sp-Visions
+[E][Label4]Select the date that you would like to reach your goal
+[F][Label4]Fr-Select the date that you would like to reach your goal
+[S][Label4]Sp-Select the date that you would like to reach your goal
+[E][Label5]Enter the vision of the accomplishment of the goal:
+[F][Label5]Fr-Enter the vision of the accomplishment of the goal:
+[S][Label5]Sp-Enter the vision of the accomplishment of the goal:
+[E][TabSheet3]Rewards
+[F][TabSheet3]Fr-Rewards
+[S][TabSheet3]Sp-Rewards
+[E][Label6]How will you reward yourself after you reached this goal?
+[F][Label6]Fr-How will you reward yourself after you reached this goal?
+[S][Label6]Sp-How will you reward yourself after you reached this goal?
+[E][TabSheet4]Mastermind 20
+[F][TabSheet4]Fr-Mastermind 20
+[S][TabSheet4]Sp-Mastermind 20
+[E][SrcLabel]Ideas List:
+[F][SrcLabel]Fr-Ideas List:
+[S][SrcLabel]Sp-Ideas List:
+[E][Label13]Come up with ideas to help you reach your goal
+[F][Label13]Fr-Come up with ideas to help you reach your goal
+[S][Label13]Sp-Come up with ideas to help you reach your goal
+[E][Label14]Mastermind Session Name
+[F][Label14]Fr-Mastermind Session Name
+[S][Label14]Sp-Mastermind Session Name
+[E][Label15]New Idea:
+[F][Label15]Fr-New Idea:
+[S][Label15]Sp-New Idea:
+[E][Label16]Enter a list of at least 20 ways to reach your goal,
+[F][Label16]Fr-Enter a list of at least 20 ways to reach your goal,
+[S][Label16]Sp-Enter a list of at least 20 ways to reach your goal,
+[E][Label17]No Idea is a bad idea,  20 minimum, can be more.
+[F][Label17]Fr-No Idea is a bad idea,  20 minimum, can be more.
+[S][Label17]Sp-No Idea is a bad idea,  20 minimum, can be more.
+[E][Button3]Insert Idea
+[F][Button3]Fr-Insert Idea
+[S][Button3]Sp-Insert Idea
+[E][Button4]Add to Critical 6
+[F][Button4]Fr-Add to Critical 6
+[S][Button4]Sp-Add to Critical 6
+[E][Button5]Idea Completed
+[F][Button5]Fr-Idea Completed
+[S][Button5]Sp-Idea Completed
+[E][CheckBox2]Idea Completed
+[F][CheckBox2]Fr-Idea Completed
+[S][CheckBox2]Sp-Idea Completed
+[E][TabSheet5]Critical 6
+[F][TabSheet5]Fr-Critical 6
+[S][TabSheet5]Sp-Critical 6
+[E][Label18]List of top priorities:
+[F][Label18]Fr-List of top priorities:
+[S][Label18]Sp-List of top priorities:
+[E][Label19]This is your list of top priorities for the day.
+[F][Label19]Fr-This is your list of top priorities for the day.
+[S][Label19]Sp-This is your list of top priorities for the day.
+[E][Button6]Task Completed
+[F][Button6]Fr-Task Completed
+[S][Button6]Sp-Task Completed
+[E][C6Print]Print
+[F][C6Print]Fr-Print
+[S][C6Print]Sp-Print
+[E][CheckBox3]Task Completed
+[F][CheckBox3]Fr-Task Completed
+[S][CheckBox3]Sp-Task Completed
+[E][TabSheet6]Success Stories
+[F][TabSheet6]Fr-Success Stories
+[S][TabSheet6]Sp-Success Stories
+[E][Label22]Use this area to write about your successful progress on this goal and what kind of difference it made in your life.
+[F][Label22]Fr-Use this area to write about your successful progress on this goal and what kind of difference it made in your life.
+[S][Label22]Sp-Use this area to write about your successful progress on this goal and what kind of difference it made in your life.
+[E][TabSheet7]Completed Goals
+[F][TabSheet7]Fr-Completed Goals
+[S][TabSheet7]Sp-Completed Goals
+[E][Label20]User:
+[F][Label20]Fr-User:
+[S][Label20]Sp-User:
+[E][Label3]Active Goal:
+[F][Label3]Fr-Active Goal:
+[S][Label3]Sp-Active Goal:
+[E][StartHereLbl]<--Start Here
+[F][StartHereLbl]Fr-<--Start Here
+[S][StartHereLbl]Sp-<--Start Here
+[E]
+[F]
+[S]
+[E]
+[F]
+[S]
+[E]
+[F]
+[S]
+[E]
+[F]
+[S]
+[E]
+[F]
+[S]
+[E]
+[F]
+[S]
+[E]
+[F]
+[S]
+[E]
+[F]
+[S]
+[E]
+[F]
+[S]
