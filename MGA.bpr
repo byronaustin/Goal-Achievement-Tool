@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- C++Builder XML Project -->
+<PROJECT>
+  <MACROS>
+    <VERSION value="BCB.06.00"/>
+    <PROJECT value="MGA.exe"/>
+    <OBJFILES value="Output\MGA.obj Output\TabPages.obj Output\About.obj Output\Language.obj"/>
+    <RESFILES value="MGA.res"/>
+    <IDLFILES value=""/>
+    <DEFFILE value=""/>
+    <RESDEPEN value="$(RESFILES) TabPages.dfm About.dfm Language.dfm"/>
+    <LIBFILES value=""/>
+    <LIBRARIES value="bcbie.lib zc1_rt_c06_0220.lib nmfast.lib tee.lib vclx.lib bcbsmp.lib 
+      vcl.lib rtl.lib"/>
+    <SPARELIBS value="rtl.lib vcl.lib bcbsmp.lib vclx.lib tee.lib nmfast.lib zc1_rt_c06_0220.lib 
+      bcbie.lib"/>
+    <PACKAGES value="vclx.bpi rtl.bpi vcl.bpi dbrtl.bpi vcldb.bpi bdertl.bpi vcldbx.bpi 
+      bcbsmp.bpi dclocx.bpi qrpt.bpi teeui.bpi vclsmp.bpi teedb.bpi tee.bpi 
+      ibsmp.bpi nmfast.bpi inetdb.bpi inet.bpi zc1_rt_c06_0220.bpi"/>
+    <PATHCPP value=".;"/>
+    <PATHPAS value=".;"/>
+    <PATHRC value=".;"/>
+    <PATHASM value=".;"/>
+    <DEBUGLIBPATH value="$(BCB)\lib\debug"/>
+    <RELEASELIBPATH value="$(BCB)\lib\release"/>
+    <LINKER value="ilink32"/>
+    <USERDEFINES value="_DEBUG"/>
+    <SYSDEFINES value="NO_STRICT"/>
+    <MAINSOURCE value="MGA.cpp"/>
+    <INCLUDEPATH value="&quot;C:\Program Files\Borland\CBuilder6\Projects&quot;;$(BCB)\include;$(BCB)\include\vcl;&quot;C:\Program Files\Borland\CBuilder6\c6&quot;"/>
+    <LIBPATH value="&quot;C:\Program Files\Borland\CBuilder6\Projects&quot;;$(BCB)\lib\obj;$(BCB)\lib;&quot;C:\Program Files\Borland\CBuilder6\c6&quot;"/>
+    <WARNINGS value="-w-par -w-8027 -w-8026"/>
+    <WARNOPTSTR value=""/>
+    <OTHERFILES value=""/>
+  </MACROS>
+  <OPTIONS>
+    <CFLAG1 value="-Od -H=c:\PROGRA~1\borland\CBUILD~1\lib\vcl60.csm -Hc -Vx -Ve -Tkh30000 
+      -X- -r- -a4 -b- -k -y -v -vi- -c -tW -tWM"/>
+    <PFLAGS value="-N2&quot;C:\Program Files\Borland\CBuilder6\Projects\oldMega Goal Achiever 2\Output&quot; 
+      -N0&quot;C:\Program Files\Borland\CBuilder6\Projects\oldMega Goal Achiever 2\Output&quot; 
+      -$Y+ -$W -$O- -$A8 -v -M -JPHNE"/>
+    <RFLAGS value=""/>
+    <AFLAGS value="/mx /w2 /zi"/>
+    <LFLAGS value="-I&quot;C:\Program Files\Borland\CBuilder6\Projects\oldMega Goal Achiever 2\Output&quot; 
+      -D&quot;&quot; -aa -Tpe -x -M -w -v"/>
+    <OTHERFILES value=""/>
+  </OPTIONS>
+  <LINKER>
+    <ALLOBJ value="c0w32.obj sysinit.obj $(OBJFILES)"/>
+    <ALLRES value="$(RESFILES)"/>
+    <ALLLIB value="$(LIBFILES) $(LIBRARIES) import32.lib cp32mt.lib"/>
+    <OTHERFILES value=""/>
+  </LINKER>
+  <FILELIST>
+      <FILE FILENAME="MGA.cpp" FORMNAME="" UNITNAME="MGA" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="TabPages.cpp" FORMNAME="PagesDlg" UNITNAME="TabPages" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="About.cpp" FORMNAME="AboutBox" UNITNAME="About" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="MGA.res" FORMNAME="" UNITNAME="MGA.res" CONTAINERID="ResTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Language.cpp" FORMNAME="LanguageForm" UNITNAME="Language" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+  </FILELIST>
+  <BUILDTOOLS>
+  </BUILDTOOLS>
+
+  <IDEOPTIONS>
+[Version Info]
+IncludeVerInfo=1
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=1
+DLL=0
+Locale=1033
+CodePage=1252
+
+[Version Info Keys]
+CompanyName=Universal Technology
+FileDescription=
+FileVersion=1.0.0.0
+InternalName=
+LegalCopyright=Universal Technology
+LegalTrademarks=Mega Goal Achiever
+OriginalFilename=Mega Goal Achiever
+ProductName=Mega Goal Achiever
+ProductVersion=1001
+Comments=
+PrivateBuild=
+
+[HistoryLists\hlIncludePath]
+Count=18
+Item0=C:\Program Files\Borland\CBuilder6\Projects;$(BCB)\include;$(BCB)\include\vcl;C:\Program Files\Borland\CBuilder6\c6
+Item1=Mega Goal Achiever;C:\Program Files\Borland\CBuilder6\Projects;C:\Testing\Ovation\ITS Syntax Finder;VFP_Apex;$(BCB)\include;$(BCB)\include\vcl;C:\Program Files\Borland\CBuilder6\c6
+Item2=C:\Program Files\Borland\CBuilder6\Projects;C:\Testing\Ovation\ITS Syntax Finder;VFP_Apex;$(BCB)\include;$(BCB)\include\vcl;C:\Program Files\Borland\CBuilder6\c6
+Item3=VFP_Apex;$(BCB)\include;$(BCB)\include\vcl;C:\Program Files\Borland\CBuilder6\c6
+Item4=VFP_Apex;$(BCB)\include;$(BCB)\include\vcl;..\ziegler
+Item5=$(BCB)\include;$(BCB)\include\vcl;..\ziegler
+Item6=C:\Program Files\Borland\CBuilder4\Examples\Controls\Source\;$(BCB4)\Examples\Controls\Source;..\zigler\insttall4;$(BCB)\include;$(BCB)\include\vcl
+Item7=..\..\Program Files\Borland\CBuilder4\Examples\Controls\Source;$(BCB4)\Examples\Controls\Source;..\zigler\insttall4;$(BCB)\include;$(BCB)\include\vcl
+Item8=$(BCB4)\Examples\Controls\Source;..\zigler\insttall4;$(BCB)\include;$(BCB)\include\vcl
+Item9=..\..\Program Files\Borland\CBuilder4\Examples\Controls\Source;..\zigler\insttall4;$(BCB)\include;$(BCB)\include\vcl
+Item10=..\zigler\insttall4;$(BCB)\include;$(BCB)\include\vcl
+Item11=..\..\Program Files\Borland\CBuilder4\Projects;..\zigler\insttall4;$(BCB)\include;$(BCB)\include\vcl
+Item12=..\zigler\install;..\apexeeprom;..\bcb3comp;..\..\program files\borland\cbuilder3\bin;$(BCB)\include;$(BCB)\include\vcl
+Item13=..\apexeeprom;..\bcb3comp;..\..\program files\borland\cbuilder3\bin;$(BCB)\include;$(BCB)\include\vcl
+Item14=..\bcb3comp;..\..\program files\borland\cbuilder3\bin;$(BCB)\include;$(BCB)\include\vcl
+Item15=..\bcb3comp;..\apexeeprom;..\..\program files\borland\cbuilder3\bin;$(BCB)\include;$(BCB)\include\vcl
+Item16=..\apexeeprom;..\..\program files\borland\cbuilder3\bin;$(BCB)\include;$(BCB)\include\vcl
+Item17=..\..\program files\borland\cbuilder3\bin;$(BCB)\include;$(BCB)\include\vcl
+
+[HistoryLists\hlLibraryPath]
+Count=17
+Item0=C:\Program Files\Borland\CBuilder6\Projects;$(BCB)\lib\obj;$(BCB)\lib;C:\Program Files\Borland\CBuilder6\c6
+Item1=Mega Goal Achiever;C:\Program Files\Borland\CBuilder6\Projects;C:\Testing\Ovation\ITS Syntax Finder;VFP_Apex;$(BCB)\lib\obj;$(BCB)\lib;C:\Program Files\Borland\CBuilder6\c6
+Item2=C:\Program Files\Borland\CBuilder6\Projects;C:\Testing\Ovation\ITS Syntax Finder;VFP_Apex;$(BCB)\lib\obj;$(BCB)\lib;C:\Program Files\Borland\CBuilder6\c6
+Item3=VFP_Apex;$(BCB)\lib\obj;$(BCB)\lib;C:\Program Files\Borland\CBuilder6\c6
+Item4=VFP_Apex;$(BCB)\lib\obj;$(BCB)\lib;..\ziegler
+Item5=$(BCB)\lib\obj;$(BCB)\lib;..\ziegler
+Item6=C:\Program Files\Borland\CBuilder4\Examples\Controls\Source\;$(BCB)\INCLUDE\VCL;$(BCB)\Examples\Controls\Source;..\zigler\insttall4;$(BCB)\lib\obj;$(BCB)\lib
+Item7=..\..\Program Files\Borland\CBuilder4\Examples\Controls\Source;$(BCB)\INCLUDE\VCL;$(BCB)\Examples\Controls\Source;..\zigler\insttall4;$(BCB)\lib\obj;$(BCB)\lib
+Item8=$(BCB)\INCLUDE\VCL;$(BCB)\Examples\Controls\Source;..\zigler\insttall4;$(BCB)\lib\obj;$(BCB)\lib
+Item9=$(BCB)\INCLUDE\VCL;..\..\Program Files\Borland\CBuilder4\Examples\Controls\Source;..\zigler\insttall4;$(BCB)\lib\obj;$(BCB)\lib
+Item10=..\..\Program Files\Borland\CBuilder4\Examples\Controls\Source;..\zigler\insttall4;$(BCB)\lib\obj;$(BCB)\lib
+Item11=..\zigler\insttall4;$(BCB)\lib\obj;$(BCB)\lib
+Item12=..\..\Program Files\Borland\CBuilder4\Projects;..\zigler\insttall4;$(BCB)\lib\obj;$(BCB)\lib
+Item13=..\zigler\install;..\bcb3comp;..\apexeeprom;..\..\program files\borland\cbuilder3\bin;$(BCB)\lib\obj;$(BCB)\lib
+Item14=..\bcb3comp;..\apexeeprom;..\..\program files\borland\cbuilder3\bin;$(BCB)\lib\obj;$(BCB)\lib
+Item15=..\apexeeprom;..\..\program files\borland\cbuilder3\bin;$(BCB)\lib\obj;$(BCB)\lib
+Item16=..\..\program files\borland\cbuilder3\bin;$(BCB)\lib\obj;$(BCB)\lib
+
+[HistoryLists\hlDebugSourcePath]
+Count=1
+Item0=$(BCB)\source\vcl
+
+[HistoryLists\hlConditionals]
+Count=4
+Item0=_DEBUG
+Item1=_RTLDLL
+Item2=USEPACKAGES
+Item3=_RTLDLL;USEPACKAGES
+
+[HistoryLists\hlIntOutputDir]
+Count=8
+Item0=C:\Program Files\Borland\CBuilder6\Projects\oldMega Goal Achiever 2\Output
+Item1=C:\Program Files\Borland\CBuilder6\Projects\Mega Goal Achiever 2\Output
+Item2=C:\Program Files\Borland\CBuilder6\Projects\1.25.2008\Mega Goal Achiever 2\Output
+Item3=C:\Program Files\Borland\CBuilder6\Projects\Mega Goal Achiever\Output
+Item4=C:\Program Files\Borland\CBuilder6\Projects\ITS Syntax Finder\Output
+Item5=C:\Program Files\Borland\CBuilder6\Projects\APEX\output
+Item6=output
+Item7=\output
+
+[Debugging]
+DebugSourceDirs=$(BCB)\source\vcl
+
+[Parameters]
+RunParams=
+Launcher=
+UseLauncher=0
+DebugCWD=
+HostApplication=
+RemoteHost=
+RemotePath=
+RemoteLauncher=
+RemoteCWD=
+RemoteDebug=0
+
+[Compiler]
+ShowInfoMsgs=0
+LinkDebugVcl=0
+LinkCGLIB=0
+
+[Language]
+ActiveLang=
+ProjectLang=
+RootDir=
+  </IDEOPTIONS>
+</PROJECT>
